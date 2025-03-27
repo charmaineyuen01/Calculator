@@ -1,0 +1,1 @@
+This project is a simple calculator with the function to calculate addition, subtraction, multiplication, and division. It uses RPN to tackle the sequencing of bracket usage. The display is done by SFML.
